@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
         <nav class="navmenu">
           <div class="level is-mobile">
             <div class="level-item has-text-centered is-home">
-              <div>Home</div>
+              <div class="homeitem">Home</div>
             </div>
             <div class="level-item has-text-centered">
               <div>Music</div>
