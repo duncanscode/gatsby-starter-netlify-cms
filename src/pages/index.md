@@ -3,7 +3,7 @@ templateKey: index-page
 title: High energy and infectious vibes
 image: /img/home-jumbotron.jpg
 heading: High energy and infectious vibes
-subheading: 'Bass driven unique, futuristic sound design'
+subheading: "Bass driven unique, futuristic sound design"
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
