@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: High energy and infectious vibes
-image: /img/white-soundwave-small.jpg
+image: /img/black-background-soundwaves.jpg
 heading: High energy and infectious vibes
 subheading: 'Bass driven unique, futuristic sound design'
 mainpitch:
-  title: Why Kaldi
+  title: Why Infravibe
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
